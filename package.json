@@ -1,0 +1,23 @@
+{
+  "name": "whatsapp-web-automatic-simple-awnserer-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielaMGX/whatsapp-web-automatic-simple-awnserer-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielaMGX/whatsapp-web-automatic-simple-awnserer-/issues"
+  },
+  "homepage": "https://github.com/DanielaMGX/whatsapp-web-automatic-simple-awnserer-#readme",
+  "dependencies": {
+    "whatsapp-web.js": "^1.31.0"
+  }
+}
